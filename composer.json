@@ -1,0 +1,12 @@
+{
+    "name": "stark/contracts",
+    "description": "The interfaces for the Stark project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Christopher Rolfe",
+            "email": "christopher.rolfe198@gmail.com"
+        }
+    ],
+    "require": {}
+}
