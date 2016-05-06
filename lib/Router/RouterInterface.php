@@ -2,5 +2,6 @@
 
 interface RouterInterface
 {
-    public function route(string $url, $function);
+    public function processRoute(string $url);
+    public function storeRoute(string $request_type, string $request_url, $function_to_process_route);
 }
