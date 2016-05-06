@@ -8,5 +8,10 @@
             "email": "christopher.rolfe198@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "Stark\\Contracts\\": "lib/"
+        }
+    },
     "require": {}
 }
